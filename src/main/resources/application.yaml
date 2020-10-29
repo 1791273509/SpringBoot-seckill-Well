@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    username: root
+    password: (ENC3Lrm809Lc3KfTxNpSPBqz4jwnJaGEeXX==)
+  redis:
+    host: 49.234.109.161
+    port: 6379
