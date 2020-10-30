@@ -4,6 +4,9 @@ spring:
   datasource:
     username: root
     password: (ENC3Lrm809Lc3KfTxNpSPBqz4jwnJaGEeXX==)
+    url: jdbc:mysql://49.234.109.161:3306/seckill?characterEncoding=utf-8&useSSL=false
   redis:
     host: 49.234.109.161
     port: 6379
+    spring:
+      datasource:
